@@ -1,7 +1,7 @@
 # Identifying sedimentary and active activities using a smart watch
 <h3>Aims</h3>
 <p> The aim of this project was to find out how well a smart watch can discern between sedimentary activites and 'active' activities that are <b>most common</b> in the average person's life. The activities chosen for this analysis were therefore split into two categories:</p>
-<p>Sedimenary activities:
+<p>Sedimentary activities:
  <ul>
   <li>Sitting</li>
   <li>Typing</li>
